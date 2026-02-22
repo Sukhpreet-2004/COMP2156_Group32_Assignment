@@ -1,0 +1,7 @@
+DevOps merges development and operations.
+DevOps improves collaboration between development and operations teams and speeds up delivery.
+DevOps uses automation tools.
+CI/CD ensures automate testing and deployment.
+Continuous Integration (CI) allows developers to frequently push code and automatically run tests.DevOps improves deployment by enabling faster releases, reduced risks, and better quality software.
+I am pursuing Computer Systems Technician.DevOps helps organizations deliver software faster and more efficiently.
+DevOps encourages continuous improvement through regular monitoring and feedback.
