@@ -1,0 +1,4 @@
+DevOps merges development and operations.
+It promotes collaboration between teams.
+DevOps uses automation tools.
+CI/CD ensures automate testing and deployment.
