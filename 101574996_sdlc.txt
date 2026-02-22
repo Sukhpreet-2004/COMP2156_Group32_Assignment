@@ -2,3 +2,4 @@ DeveOps integrates developments and operations teams.
 It improves software delivery speed, quality, and collaboration.
 It reduces employment failures.
 It enable faster software releases.
+It is good 
