@@ -1,0 +1,9 @@
+SDLC (Software Development Life Cycle) is the process of planning, designing, developing, testing, deploying, and maintaining software.
+
+SDLC phases include Planning, Requirements, Design, Development, Testing, Deployment, and Maintenance.
+
+DevOps is crucial because it ensures collaboration between development and operations teams. It uses automation to deliver software faster and more reliably.
+
+Continuous Integration (CI) allows developers to frequently push code to a shared repository where automated tests run to detect errors early.
+
+DevOps improves deployment by enabling faster releases, reducing risks, improving quality, and allowing quick recovery from issues.
