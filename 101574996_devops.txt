@@ -1,0 +1,4 @@
+COMP 2156 - DevOps forSystem Administration
+This course teaches students about DevOps principles and practices.
+This course includes practical labs and assignments.
+This corse cover version using Git.
