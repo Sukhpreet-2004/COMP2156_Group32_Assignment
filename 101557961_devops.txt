@@ -1,4 +1,4 @@
 DevOps merges development and operations.
-It promotes collaboration between teams.
+DevOps improves collaboration between development and operations teams and speeds up delivery.
 DevOps uses automation tools.
 CI/CD ensures automate testing and deployment.
