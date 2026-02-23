@@ -1,0 +1,12 @@
+Name: Sehaldeep Singh
+Student ID: 101559717
+
+DevOps is a combination of Development and Operations.
+It improves collaboration between teams and helps deliver software faster.
+It uses automation, CI/CD, monitoring, and testing.
+
+Benefits of DevOps:
+- Faster delivery
+- Better quality
+- Automation
+- Improved teamwork

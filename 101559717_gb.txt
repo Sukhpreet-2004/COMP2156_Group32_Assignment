@@ -1,0 +1,12 @@
+Name: Sehaldeep Singh
+Student ID: 101559717
+
+GitHub is a platform used to host and manage code.
+It helps developers collaborate using repositories and version control.
+
+Features of GitHub:
+- Repositories
+- Branches
+- Pull Requests
+- Issues
+- Actions

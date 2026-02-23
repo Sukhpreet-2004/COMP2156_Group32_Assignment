@@ -1,0 +1,14 @@
+Name: Sehaldeep Singh
+Student ID: 101559717
+
+SDLC means Software Development Life Cycle.
+It is the process of creating software step by step.
+
+Phases of SDLC:
+1. Planning
+2. Analysis
+3. Design
+4. Implementation
+5. Testing
+6. Deployment
+7. Maintenance
