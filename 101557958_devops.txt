@@ -1,3 +1,4 @@
-COMP2156 focuses on DevOps for System Administration.
+Students learn Continuous Integration and Continuous Delivery concepts.
+CI/CD helps automate testing and deployments.COMP2156 focuses on DevOps for System Administration.
 The course teaches version control using Git and GitHub.
 
