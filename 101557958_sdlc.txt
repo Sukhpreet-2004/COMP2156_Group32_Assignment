@@ -1,0 +1,2 @@
+DevOps is important in the Software Development Life Cycle (SDLC).
+It connects development and operations teams for faster releases.
