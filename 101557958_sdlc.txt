@@ -1,0 +1,6 @@
+
+Continuous Delivery enables repeatable and consistent deployments.
+Monitoring and feedback help improve performance after release.Continuous Integration catches issues early by building and testing changes.
+Automation reduces manual mistakes and improves reliability.
+DevOps is important in the Software Development Life Cycle (SDLC).
+It connects development and operations teams for faster releases.
