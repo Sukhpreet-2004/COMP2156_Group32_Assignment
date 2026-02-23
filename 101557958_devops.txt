@@ -1,4 +1,8 @@
+
 Students learn Continuous Integration and Continuous Delivery concepts.
 CI/CD helps automate testing and deployments.COMP2156 focuses on DevOps for System Administration.
+
+Tools like GitHub Actions or other CI tools can be used for automation.
+DevOps improves collaboration and reduces deployment errors.
 The course teaches version control using Git and GitHub.
 
