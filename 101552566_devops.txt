@@ -4,3 +4,4 @@ COMP 2156 teaches DevOps concepts that involves:
 - Automation of tasks and workflows management
 - Collaboration and team synergy in DevOps culture
 - Devops put softwre development and IT operations together.
+- It helps students understand current-edge software delivery.
