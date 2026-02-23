@@ -1,0 +1,5 @@
+COMP2156 DevOps for System Administration teaches collaboration using Git and GitHub.
+Students learn how to create branches, commits, and pull requests.
+CI/CD pipelines automate building and testing applications.
+GitHub Actions is used for continuous integration.
+DevOps improves software reliability and teamwork.
