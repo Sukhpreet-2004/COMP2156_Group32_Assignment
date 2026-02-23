@@ -6,3 +6,4 @@ DevOps is crucial in the Software Development Life Cycle (SDLC) because:
 - It involves planning, development, testing, and deployment.
 - It helps deliver software faster and more reliably.
 - Automation reduces manual errors and improves efficiency.
+- Learning DevOps is crucial for software engineers.
