@@ -1,0 +1,8 @@
+COMP 2156 teaches DevOps concepts that involves:
+- Version control with Git
+- End-to-end Integration Deployment
+- Automation of tasks and workflows management
+- Collaboration and team synergy in DevOps culture
+- Devops put softwre development and IT operations together.
+- It helps students understand current-edge software delivery.
+- DevOps introduces tools such as Git and GitHub.
